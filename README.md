@@ -1,5 +1,5 @@
 # Todoey
-## A To Do List application for ios devices.
+## A To Do List application for iOS devices.
 
 ## Tools Used - 
 1. Realm Database
